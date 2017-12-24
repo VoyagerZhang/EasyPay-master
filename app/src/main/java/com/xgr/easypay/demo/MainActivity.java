@@ -104,12 +104,12 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void failed() {
-                toast("支付失败");
+                toast("支付失败   ");
             }
 
             @Override
             public void cancel() {
-                toast("支付取消");
+                toast("支付阿东发筛分取消");
             }
         });
     }
