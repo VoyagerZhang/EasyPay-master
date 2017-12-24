@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void failed() {
-                toast("支付失败   ");
+                toast("支付失败   ，这个是aa分支");
             }
 
             @Override
